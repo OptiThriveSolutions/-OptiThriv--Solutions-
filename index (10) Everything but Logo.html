@@ -565,13 +565,13 @@
         <div class="card" data-aos="fade-up" data-aos-delay="300">
           <div class="card-content">
             <h3 class="text-2xl font-semibold mb-5">Reduced Expenses</h3>
-            <p class="fade-in-text">Professionals cut costs with AI forecasts, measured via financial dashboards.</p>
+            <p class="fade-in-text">Professionals cut costs with AI forecasts and integration of IoT, metrics agreed upon collaboration .</p>
           </div>
         </div>
         <div class="card" data-aos="fade-left" data-aos-delay="400">
           <div class="card-content">
-            <h3 class="text-2xl font-semibold mb-5">Home Efficiency</h3>
-            <p class="fade-in-text">Homeowners reduce utility bills with smart systems, monitored via IoT integrations.</p>
+            <h3 class="text-2xl font-semibold mb-5">Waste Reduction</h3>
+            <p class="fade-in-text">Generate savings from waste reduction anywhere! (Business to the home front - i.e. reduce extra processing or non-utilized talent/capabilities).</p>
           </div>
         </div>
       </div>
@@ -611,7 +611,7 @@
       <p class="text-lg mb-12 max-w-2xl mx-auto fade-in-text" data-aos="fade-down" data-aos-delay="100">As a new client, you’ll experience personalized service, cutting-edge analytics, and measurable savings tailored to your needs. Expect dedicated support, including free overtime when needed, to maximize your savings—without any binding contracts. Let’s build your success story together!</p>
       <div class="card p-10 rounded-xl max-w-2xl mx-auto" data-aos="fade-up" data-aos-delay="200">
         <div class="card-content">
-          <p class="italic text-lg fade-in-text">“Looking forward to partnering with OptiThrive Solutions to unlock savings and efficiency for my business.” – Your Future Client</p>
+          <p class="italic text-lg fade-in-text">“Looking forward to partnering with OptiThrive Solutions to unlock savings and efficiency for my business.” – Future Client</p>
         </div>
       </div>
       <p class="mt-10 text-xl font-semibold text-2F4F4F fade-in-text" data-aos="fade-up" data-aos-delay="300">Be among the first to experience transformative savings – request your quote today!</p>
@@ -646,7 +646,7 @@
   <section id="about" class="section parallax-bg">
     <div class="container mx-auto px-6 text-center">
       <h2 class="text-4xl md:text-5xl font-bold mb-10" data-aos="fade-down">About OptiThrive Solutions</h2>
-      <p class="text-lg mb-12 max-w-2xl mx-auto fade-in-text" data-aos="fade-down" data-aos-delay="100">Founded by a Supply Chain Management graduate from URI (3.90 GPA, 2023) with a Lean Six Sigma Green Belt. At Garage Headquarters, I drove $2.2M+ in sales and optimized systems. OptiThrive Solutions now delivers AI-enhanced savings solutions with no upfront cost, credited from results. Committed to your success, OptiThrive Solutions offers free overtime support as needed to ensure results, with no binding contract required.</p>
+      <p class="text-lg mb-12 max-w-2xl mx-auto fade-in-text" data-aos="fade-down" data-aos-delay="100">Founded by a 2023 URI Summa Cum Laude Supply Chain Management graduate with a Lean Six Sigma Green Belt. At Garage Headquarters, he drove $2.2M+ in sales and optimized systems. OptiThrive Solutions now delivers AI-enhanced savings solutions with no upfront cost, credited from results. Committed to your success, OptiThrive Solutions offers custom tailored deals to optimize collaboration and growth with each customer.</p>
       <a href="https://www.linkedin.com/in/braeden-cannon-96357b221/" target="_blank" rel="noopener noreferrer" class="inline-link text-2F4F4F font-semibold text-xl fade-in-text" data-aos="fade-up" data-aos-delay="200">Connect on LinkedIn</a>
     </div>
     <div class="separator"></div>
