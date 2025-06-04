@@ -37,7 +37,6 @@
         }
         return gk_fileData[filename] || "";
         }
-        </script><!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -571,7 +570,7 @@
         <div class="card" data-aos="fade-left" data-aos-delay="400">
           <div class="card-content">
             <h3 class="text-2xl font-semibold mb-5">Waste Reduction</h3>
-            <p class="fade-in-text">Generate savings from waste reduction anywhere! (Business to the home front - i.e. reduce extra processing or non-utilized talent/capabilities).</p>
+            <p class="fade-in-text">Generate savings from waste reduction anywhere! Reduce extra processing or non-utilized talent/capabilities.</p>
           </div>
         </div>
       </div>
@@ -608,7 +607,7 @@
   <section id="testimonials" class="section parallax-bg">
     <div class="container mx-auto px-6 text-center">
       <h2 class="text-4xl md:text-5xl font-bold mb-10" data-aos="fade-down">What to Expect</h2>
-      <p class="text-lg mb-12 max-w-2xl mx-auto fade-in-text" data-aos="fade-down" data-aos-delay="100">As a new client, you’ll experience personalized service, cutting-edge analytics, and measurable savings tailored to your needs. Expect dedicated support, including free overtime when needed, to maximize your savings—without any binding contracts. Let’s build your success story together!</p>
+      <p class="text-lg mb-12 max-w-2xl mx-auto fade-in-text" data-aos="fade-down" data-aos-delay="100">As a new client, you’ll experience personalized service, cutting-edge analytics, and measurable savings tailored to your needs. Expect dedicated support, and a hand tailored agreement to realize dreams. Let’s build your success story together!</p>
       <div class="card p-10 rounded-xl max-w-2xl mx-auto" data-aos="fade-up" data-aos-delay="200">
         <div class="card-content">
           <p class="italic text-lg fade-in-text">“Looking forward to partnering with OptiThrive Solutions to unlock savings and efficiency for my business.” – Future Client</p>
